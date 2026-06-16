@@ -1,18 +1,18 @@
 1. THE BASE
 -----------
-anysize 
-autocomplete 
-clipboard 
-default-font-size 
-gruvbox 
-ligatures 
-scroll 
-sync 
+^ anysize 
+^ autocomplete 
+^ clipboard 
+^ default-font-size 
+^ gruvbox 
 
 2. THE FEAT
 -----------
 vim-browse 
+scroll 
 newterm 
+kitty-graphics
+ligatures 
 
 3. THE LOOKS
 -----------
