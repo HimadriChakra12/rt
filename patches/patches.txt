@@ -1,0 +1,26 @@
+1. THE BASE
+-----------
+ligatures 
+scroll 
+anysize 
+autocomplete 
+clipboard 
+default-font-size 
+gruvbox 
+sync 
+
+2. THE FEAT
+-----------
+keyboardselect/vim-browse 
+newterm 
+
+3. THE LOOKS
+-----------
+blinking 
+cursor 
+vertcenter
+clickurl 
+
+4. XDND
+-----------
+drag-and-drop 
