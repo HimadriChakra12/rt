@@ -1,25 +1,25 @@
 1. THE BASE
 -----------
-ligatures 
-scroll 
 anysize 
 autocomplete 
 clipboard 
 default-font-size 
 gruvbox 
+ligatures 
+scroll 
 sync 
 
 2. THE FEAT
 -----------
-keyboardselect/vim-browse 
+vim-browse 
 newterm 
 
 3. THE LOOKS
 -----------
 blinking 
+clickurl 
 cursor 
 vertcenter
-clickurl 
 
 4. XDND
 -----------
