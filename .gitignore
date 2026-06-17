@@ -2,3 +2,5 @@
 /*.o
 /config.h
 /st
+/*.rej
+/*.orig
